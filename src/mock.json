@@ -1,0 +1,227 @@
+[
+    {
+      "id": 1,
+      "from": "SVO",
+      "to": "LED",
+      "airline": "pobeda",
+      "price": 12700,
+      "currency": "RUB",
+      "time": {
+        "startTime": "12:00",
+        "endTime": "13:00"
+      },
+      "duration": 60,
+      "date": "12.05.2024",
+      "connection": 0
+    },
+    {
+      "id": 2,
+      "from": "SVO",
+      "to": "LED",
+      "airline": "redwings",
+      "price": 13000,
+      "currency": "RUB",
+      "time": {
+        "startTime": "12:30",
+        "endTime": "18:00"
+      },
+      "duration": 60,
+      "date": "20.05.2024",
+      "connection": 1
+    },
+    {
+      "id": 3,
+      "from": "SVO",
+      "to": "LED",
+      "airline": "s7air",
+      "price": 12000,
+      "currency": "RUB",
+      "time": {
+        "startTime": "11:20",
+        "endTime": "22:00"
+      },
+      "duration": 90,
+      "date": "20.06.2024",
+      "connection": 2
+    },
+    {
+      "id": 4,
+      "from": "SVO",
+      "to": "LED",
+      "airline": "redwings",
+      "price": 11250,
+      "currency": "RUB",
+      "time": {
+        "startTime": "20:00",
+        "endTime": "21:00"
+      },
+      "duration": 60,
+      "date": "12.05.2024",
+      "connection": 0
+    },
+    {
+      "id": 5,
+      "from": "SVO",
+      "to": "LED",
+      "airline": "pobeda",
+      "price": 13200,
+      "currency": "RUB",
+      "time": {
+        "startTime": "11:00",
+        "endTime": "12:00"
+      },
+      "duration": 60,
+      "date": "20.04.2024",
+      "connection": 3
+    },
+    {
+      "id": 6,
+      "from": "DBX",
+      "to": "LED",
+      "airline": "s7air",
+      "price": 11260,
+      "currency": "RUB",
+      "time": {
+        "startTime": "11:00",
+        "endTime": "19:00"
+      },
+      "duration": 360,
+      "date": "23.04.2024",
+      "connection": 3
+    },
+    {
+      "id": 7,
+      "from": "LED",
+      "to": "DBX",
+      "airline": "pobeda",
+      "price": 15370,
+      "currency": "RUB",
+      "time": {
+        "startTime": "15:00",
+        "endTime": "21:00"
+      },
+      "duration": 360,
+      "date": "21.10.2024",
+      "connection": 2
+    },
+    {
+      "id": 8,
+      "from": "SVO",
+      "to": "LED",
+      "airline": "redwings",
+      "price": 15370,
+      "currency": "RUB",
+      "time": {
+        "startTime": "12:30",
+        "endTime": "13:30"
+      },
+      "duration": 60,
+      "date": "20.06.2024",
+      "connection": 0
+    },
+    {
+      "id": 9,
+      "from": "SVO",
+      "to": "LED",
+      "airline": "s7air",
+      "price": 12170,
+      "currency": "RUB",
+      "time": {
+        "startTime": "11:20",
+        "endTime": "22:00"
+      },
+      "duration": 140,
+      "date": "19.05.2024",
+      "connection": 1
+    },
+    {
+      "id": 10,
+      "from": "SVO",
+      "to": "LED",
+      "airline": "redwings",
+      "price": 13400,
+      "currency": "RUB",
+      "time": {
+        "startTime": "20:00",
+        "endTime": "2:00"
+      },
+      "duration": 180,
+      "date": "13.07.2024",
+      "connection": 0
+    },
+    {
+      "id": 11,
+      "from": "SVO",
+      "to": "LED",
+      "airline": "pobeda",
+      "price": 12200,
+      "currency": "RUB",
+      "time": {
+        "startTime": "11:00",
+        "endTime": "17:00"
+      },
+      "duration": 140,
+      "date": "14.08.2024",
+      "connection": 1
+    },
+    {
+      "id": 12,
+      "from": "SVO",
+      "to": "LED",
+      "airline": "s7air",
+      "price": 11700,
+      "currency": "RUB",
+      "time": {
+        "startTime": "15:30",
+        "endTime": "20:00"
+      },
+      "duration": 60,
+      "date": "20.07.2024",
+      "connection": 2
+    },
+    {
+      "id": 13,
+      "from": "DME",
+      "to": "KZN",
+      "airline": "s7air",
+      "price": 21890,
+      "currency": "RUB",
+      "time": {
+        "startTime": "08:15",
+        "endTime": "11:45"
+      },
+      "duration": 45,
+      "date": "15.08.2024",
+      "connection": 1
+    },
+    {
+      "id": 14,
+      "from": "VKO",
+      "to": "CEK",
+      "airline": "redwings",
+      "price": 21400,
+      "currency": "RUB",
+      "time": {
+        "startTime": "12:00",
+        "endTime": "16:30"
+      },
+      "duration": 75,
+      "date": "28.09.2024",
+      "connection": 2
+    },
+    {
+      "id": 15,
+      "from": "KGD",
+      "to": "MOW",
+      "airline": "pobeda",
+      "price": 19990,
+      "currency": "RUB",
+      "time": {
+        "startTime": "09:45",
+        "endTime": "12:15"
+      },
+      "duration": 50,
+      "date": "12.10.2024",
+      "connection": 1
+    }
+  ]
